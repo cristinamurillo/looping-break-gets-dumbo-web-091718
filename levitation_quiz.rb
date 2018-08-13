@@ -1,6 +1,6 @@
 
 def levitation_quiz
-	while answer
+	loop do 
 end
 
 
